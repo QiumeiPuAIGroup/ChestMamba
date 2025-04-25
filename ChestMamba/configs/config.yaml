@@ -1,0 +1,19 @@
+# data setting
+data_name: pneumonia
+n_channels: 3
+n_classes: 4
+classes: normal pneumonia
+
+# root of real dataset
+root1: './data/pneumoniamnist_224'
+
+#root of fake dataset
+root2: './data/fake'
+
+# model input size
+image_size: 224
+
+# properties
+mean: [0.00924097]
+std: [0.00282327]
+
