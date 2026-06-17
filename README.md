@@ -1,4 +1,4 @@
-# 🫁 ChestMamba: Vision Mamba-Based Framework for Pneumonia X-ray Generation and Classification
+# 🫁 ChestMamba: A Vision Mamba-based Method for Pneumonia X-ray Image Generation and Classification
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
